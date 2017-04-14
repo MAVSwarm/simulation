@@ -1,0 +1,15 @@
+[submodule "launcher"]
+	path = launcher
+	url = git@github.com:MAVSwarm/launcher.git
+[submodule "launcher_msgs"]
+	path = launcher_msgs
+	url = git@github.com:MAVSwarm/launcher_msgs.git
+[submodule "local_position_simulator"]
+	path = local_position_simulator
+	url = git@github.com:MAVSwarm/local_position_simulator.git
+[submodule "navigator"]
+	path = navigator
+	url = git@github.com:MAVSwarm/navigator.git
+[submodule "navigator_msgs"]
+	path = navigator_msgs
+	url = git@github.com:MAVSwarm/navigator_msgs.git
